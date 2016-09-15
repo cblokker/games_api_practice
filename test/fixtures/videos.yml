@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+video_one:
+  attachment_file_name: 'test_video.mp4'
+  attachment_content_type: 'video/mp4'
+  attachment_file_size: 1024
+  player: player_one
